@@ -1,0 +1,5 @@
+{
+  "summar_data": "app/datasets/raw_dataset/summer.csv",
+  "winter_data": "app/datasets/raw_dataset/winter.csv",
+  "dictionary_data": "app/datasets/raw_dataset/dictionary.csv"
+}

@@ -1,0 +1,15 @@
+darts==0.31.0
+matplotlib==3.9.2
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+statsmodels==0.14.4
+streamlit==1.40.1
+streamlit-aggrid==1.0.5
+matplotlib-inline==0.1.7
+pip install "u8darts[notorch]"
+
+
