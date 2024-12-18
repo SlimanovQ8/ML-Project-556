@@ -30,33 +30,7 @@ Install the required Python packages using pip:
    code deactivate
    ```
 
-### **Ubuntu Users**  
 
-1. Install Python  
-Most Ubuntu systems come with Python pre-installed. Verify the version using:
-```bash
-  python3 --version
-```
-3. **Install venv Module**  
-  If venv is not already installed, use the following command:
-```bash
-  sudo apt install python3-venv
-```
-3. Create Virtual Environment  
-  Navigate to your project directory and create a virtual environment:
-```bash
-  python3 -m venv venv
-```
-4. Activate Virtual Environment  
-To activate the environment, run:
-```bash
-  source venv/bin/activate
-```
-5. Install Dependencies  
-Install the required Python packages:
-```bash
-  pip install -r requirements.txt
-```
 6. Running Project
    ```bash
       streamlit run streamlit_deshboard.py
